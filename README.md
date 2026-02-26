@@ -34,31 +34,6 @@ Passionate computer science student specializing in artificial intelligence with
 
 ---
 
-## 📈 GitHub Analytics
-
-<div style="display: flex; justify-content: center; gap: 20px;">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RavnOP&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RavnOP&layout=compact&langs_count=8&theme=radical"/>
-</div>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RavnOP&theme=react-dark&hide_border=true"/>
-
----
-
-## 🏆 Certifications
-
-<div style="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap;">
-  <div>
-    <img src="https://github.com/user-attachments/assets/6b53baab-8cc2-496a-a411-a41e452bfd7d" width="600" alt="HTML/CSS Certification">
-    <p align="center">HTML/CSS Certification<br>Pearson Certiport</p>
-  </div>
-  <div>
-    <img src="https://github.com/user-attachments/assets/d04f2d3f-ba9c-4087-8d36-192605bea63f" width="600" alt="JavaScript Certification">
-    <p align="center">JavaScript Certification<br>Pearson Certiport</p>
-  </div>
-</div>
-
----
 
 ## 🌟 Featured Projects
 
