@@ -1,5 +1,3 @@
-<div align="center">
-  
 # 👋 Hello, I'm Abhishek Singh
 
 ### Computer Science Student | AI Researcher | Full-Stack Developer
@@ -34,20 +32,13 @@ Passionate computer science student specializing in artificial intelligence with
 
 ---
 
-
 ## 🌟 Featured Projects
 
-<div align="left" style="width: 70%; margin: 0 auto;">
-  
-🔹 **[Vehicle-Speed-and-Type-Detection-Using-YoloV8](https://github.com/RavnOP/Vehicle-Speed-and-Type-Detection-Using-YoloV8)**  
-         <p>This system uses artificial intelligence to detect vehicles in video streams, 
-         track their movement, and calculate their speeds in real-time.</p>
-
-</div>
+### 🚗 [Vehicle-Speed-and-Type-Detection-Using-YoloV8](https://github.com/RavnOP/Vehicle-Speed-and-Type-Detection-Using-YoloV8)
+AI-powered system for real-time vehicle detection, tracking, and speed calculation using YOLOv8 computer vision.
 
 ---
-<div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=RavnOP&label=Profile%20views&color=0e75b6&style=flat" alt="RavnOP" />
+## 📊 GitHub Stats
 
-</div>
+![Profile views](https://komarev.com/ghpvc/?username=RavnOP&label=Profile%20views&color=0e75b6&style=flat)
